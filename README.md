@@ -38,13 +38,3 @@ npm run build
 
 
 ## Have a look at [Netlify](https://thunderous-trifle-7e60a3.netlify.app)
-
-
-
-## Project Images
-![mainpage](img/mainpage.PNG)
-![modal-and-mainpage](img/modalandmainpage.PNG)
-![mainpage-after-changes](img/mainpageafterchanges.PNG)
-![light-mode](img/lightmode.PNG)
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
